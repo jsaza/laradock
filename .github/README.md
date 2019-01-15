@@ -1,3 +1,12 @@
+
+#### note:
+
+- nginxのSSL設定済み版
+- `nginx`, `mysql`, `workspace`, `phpmyadmin` の起動コマンドをshファイルへ
+
+---
+
+
 <p align="center">
     <img src="/.github/home-page-images/laradock-logo.jpg?raw=true" alt="Laradock Logo"/>
 </p>
